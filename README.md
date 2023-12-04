@@ -19,7 +19,7 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 
 ## Conseils généraux
 
-* Pour le jury (composé de 5 membres au moins), tenez-vous-en au plus simple: les 4 rapporteur-ses proposés + garant
+* Pour le jury (composé de 5 membres au moins), tenez-vous-en au plus simple: les 4 rapporteur-ses proposé-es + garant
 * Communiquez fréquemment avec votre jury prospectifs (notamment pour les tenir informés de l'avancement ou leur rappeler que leur rapport est attendu) à mesure que le calendrier se précise
 * Communiquez fréquemment avec l'ED — Claire, Glwadys, Maite — (par exemple, vérifier que les rapports sont arrivés)
 * Communiquez fréquemment avec les personnes qui ont soutenu récemment qui ont des conseils pratiques à vous donner
@@ -29,7 +29,7 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 
 Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent le ou la candidat-e et les rapporteur-ses (c'est-à-dire que je passe sous le tapis le travail du comité HDR, de l'ED, du CS, ou de l'AG).  Par exemple, l'inscription auprès de l'ED est faite par l'ED.
 
-* Fin janvier (approximativement) **Avoir constitué son jury**
+* Fin mars (approximativement) **Avoir constitué son jury** (ie, avoir trouvé 4 rapporteur-ses)
 
 * 5 mai **Dépôt du dossier d'HDR** dossier administratif complet et mémoire en bonne voie (80% abouti)
 
@@ -53,7 +53,7 @@ Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent 
 
 * Début novembre **Envoyer les demandes relatives au pot** Place de parking, demande auprès de la DGS pour les bouteilles en verre
 
-* Mi-novembre **Premiers préparatifs pour le pot**
+* Mi-novembre **Premiers préparatifs/courses pour le pot**
 
 * 28 novembre **Soutenance**
 

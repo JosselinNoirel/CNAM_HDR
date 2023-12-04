@@ -25,11 +25,27 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 * Communiquez fréquemment avec les personnes qui ont soutenu récemment qui ont des conseils pratiques à vous donner
 * Consultez les mémoires de personnes qui ont soutenu récemment
 
+## FAQ
+
+1. En quoi consiste l'HDR
+
+> TODO
+
+2. Quelle est la taille du mémoire
+
+> TODO
+
+3. Que doit contenir un rapport
+
+> TODO
+ 
 ## Calendrier HDR pragmatique
 
 Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent le ou la candidat-e et les rapporteur-ses (c'est-à-dire que je passe sous le tapis le travail du comité HDR, de l'ED, du CS, ou de l'AG).  Par exemple, l'inscription auprès de l'ED est faite par l'ED.
 
-* Fin mars (approximativement) **Avoir constitué son jury** (ie, avoir trouvé 4 rapporteur-ses)
+* Fin mars **Avoir constitué son jury**
+
+> En pratique, conformément au conseil que je donne plus haut, cela consiste à avoir trouvé 4 personnes ayant accepté de devoir lire un mémoire pendant l'été/début septembre pour rédiger un rapport d'une ou deux pages dans la deuxième moitié de septembre (tout en expliquant que l'une ou l'autre de ces personnes ne serait pas forcément sélectionnée par le comité HDR auquel cas, les vacances seraient meilleures et ladite personne serait examinatrice). Cette date est très approximative mais elle permet de fixer les idées.  Par ailleurs, la composition du jury peut influencer un peu la bibliographie et l'orientation générale du mémoire.
 
 * 5 mai **Dépôt du dossier d'HDR** dossier administratif complet et mémoire en bonne voie (80% abouti)
 

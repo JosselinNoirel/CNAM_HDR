@@ -1,8 +1,8 @@
-Bonjour [Name],
+Bonjour *NAME*,
 
 Je me permets de vous contacter car, maître de conférences au CNAM, je souhaiterais soutenir une habilitation à diriger les recherches.
 
-*INSÉRER ICI LA CONNEXION AVEC LA PERSONNE QUE VOUS CONTACTEZ**
+*INSÉRER ICI LA CONNEXION AVEC LA PERSONNE QUE VOUS CONTACTEZ*
 
 Ma trajectoire professionnelle *INSÉRER ICI UN MOT SUR VOTRE PARCOURS*
 

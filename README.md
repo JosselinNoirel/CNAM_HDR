@@ -29,6 +29,8 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 
 Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent le ou la candidat-e et les rapporteur-ses (c'est-à-dire que je passe sous le tapis le travail du comité HDR, de l'ED, du CS, ou de l'AG).  Par exemple, l'inscription auprès de l'ED est faite par l'ED.
 
+* Fin janvier (approximativement) **Avoir constitué son jury**
+
 * 5 mai **Dépôt du dossier d'HDR** dossier administratif complet et mémoire en bonne voie (80% abouti)
 
 > Pour cette étape, le plus important est le dossier administratif qui doit être complet; si le mémoire est à moins de 80% fini, on peut négocier mais il faudra être en mesure de dégager du temps sur le mois qui reste avant le dépôt définitif.
@@ -45,18 +47,26 @@ Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent 
 
 * 13 septembre (mais ça aurait pu être plus tôt) **Réservation des salles** (amphithéâtre et pot) auprès de la planification
 
-* 15 septembre **Commencer à prévoir les demandes relatives au pot** Place de parking, demande auprès de la DGS pour les bouteilles en verre
-
 * 22 septembre **Les rapporteur-ses envoient leur rapport** à l'ED
 
 * Octobre **Envoi des invitations** au laboratoire, ami-es, collègues plus ou moins distant-es
 
-* Mi-novembre **Organisation des préparatifs pour le pot**
+* Début novembre **Envoyer les demandes relatives au pot** Place de parking, demande auprès de la DGS pour les bouteilles en verre
+
+* Mi-novembre **Premiers préparatifs pour le pot**
 
 * 28 novembre **Soutenance**
 
 ## Soutenance
 
-* Une soutenance l'après-midi pratique (préparatifs le matin)
+Concernant le jury
+
+* Une partie du jury peut être à distance mais
+* Le ou la présidente doit être présente physiquement
+
+Concernant la date et les préparatifs
+
+* Une soutenance l'après-midi est pratique (préparatifs le matin)
+* Le mardi c'est bien: le lundi permet d'avoir un jour ouvré entier pour régler certaines choses, notamment
 * Procéder à un test grandeur nature la veille de la soutenance
 * Déposer autant de choses que possible dans la salle du pot avant la soutenance

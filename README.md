@@ -4,8 +4,8 @@ Vous trouverez ici des informations pratiques sur l'HDR au CNAM.  Ce sont des co
 
 Ce dépôt contient également quelques emails pour décrire la situation à vos rapporteur-ses étranger-ères.
 
-* [Email pour des rapporteur-ses français-es](email_contact_rapp_fr)
-* [Email pour des rapporteur-ses étranger-ères](email_contact_rapp_en)
+* [Email pour des rapporteur-ses français-es](email_contact_rapp_fr.md)
+* [Email pour des rapporteur-ses étranger-ères](email_contact_rapp_en.md)
 
 ## Toile de fond
 

@@ -4,6 +4,9 @@ Vous trouverez ici des informations pratiques sur l'HDR au CNAM.  Ce sont des co
 
 Ce dépôt contient également quelques emails pour décrire la situation à vos rapporteur-ses étranger-ères.
 
+* [Email pour des rapporteur-ses français-es](email_contact_rapp_fr)
+* [Email pour des rapporteur-ses étranger-ères](email_contact_rapp_en)
+
 ## Toile de fond
 
 Le dossier HDR est composé d'un dossier administratif et d'un mémoire.  Le dépôt se fait en deux temps.

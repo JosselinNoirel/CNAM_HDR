@@ -86,3 +86,18 @@ Concernant la date et les préparatifs
 * Le mardi c'est bien: le lundi permet d'avoir un jour ouvré entier pour régler certaines choses, notamment
 * Procéder à un test grandeur nature la veille de la soutenance
 * Déposer autant de choses que possible dans la salle du pot avant la soutenance
+
+## Préparer les questions
+
+* Réfléchir à des éléments factuels pour alimenter des discussions très générales concernant
+
+  * vos objectifs de carrière à 5 ans
+  * les plus grands obstacles que votre discipline aura à surmonter dans les 10 prochaines années
+  * les plus grandes innovations qui sont attendues
+
+* Pour chaque chapitre et chaque projet que vous aurez exposé
+
+  * Quelles sont les prochaines étapes immédiates ?
+  * Quelles sont les applications à moyen terme ?
+  * De quelles données/méthodes auriez-vous souhaité disposer ?
+  * Peut-on envisager une synthèse avec des approches différentes ?

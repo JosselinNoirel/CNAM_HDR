@@ -2,6 +2,8 @@
 
 Vous trouverez ici des informations pratiques sur l'HDR au CNAM.  Ce sont des conseils fondés sur mon expérience propre et leur pertinence pourra être limitées dans le temps.
 
+Les éléments précis concernant la procédure sont disponibles sur page de l'école doctorale SMI [Passer son HDR au Cnam](https://recherche.cnam.fr/je-passe-mon-hdr/passer-son-hdr-au-cnam-957972.kjsp).
+
 Ce dépôt contient également quelques emails pour décrire la situation à vos rapporteur-ses étranger-ères.
 
 * [Email pour des rapporteur-ses français-es](email_contact_rapp_fr.md)
@@ -38,7 +40,15 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 3. Que doit contenir un rapport
 
 > TODO
- 
+
+## Règles concernant les rapporteur-ses
+
+TODO.
+
+## Règles concernant le jury
+
+TODO.
+
 ## Calendrier HDR pragmatique
 
 Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent le ou la candidat-e et les rapporteur-ses (c'est-à-dire que je passe sous le tapis le travail du comité HDR, de l'ED, du CS, ou de l'AG).  Par exemple, l'inscription auprès de l'ED est faite par l'ED.

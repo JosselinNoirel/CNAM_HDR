@@ -22,7 +22,7 @@ La plupart des règles ou des dates établies pour l'HDR ne sont pas absolument 
 ## Conseils généraux
 
 * Pour le jury (composé de 5 membres au moins), tenez-vous-en au plus simple: les 4 rapporteur-ses proposé-es + garant
-* Communiquez fréquemment avec votre jury prospectifs (notamment pour les tenir informés de l'avancement ou leur rappeler que leur rapport est attendu) à mesure que le calendrier se précise
+* Communiquez fréquemment avec votre jury prospectif (notamment pour le tenir informé de l'avancement ou lui rappeler que les rapports sont attendus) à mesure que le calendrier se précise
 * Communiquez fréquemment avec l'ED — Claire, Glwadys, Maite — (par exemple, vérifier que les rapports sont arrivés)
 * Communiquez fréquemment avec les personnes qui ont soutenu récemment qui ont des conseils pratiques à vous donner
 * Consultez les mémoires de personnes qui ont soutenu récemment

@@ -9,6 +9,16 @@ Ce dépôt contient également quelques emails pour décrire la situation à vos
 * [Email pour des rapporteur-ses français-es](email_contact_rapp_fr.md)
 * [Email pour des rapporteur-ses étranger-ères](email_contact_rapp_en.md)
 
+Une trame que je mets à disposition
+
+* Dossier administratif (TODO)
+* Manuscrit (mémoire inédit) (TODO)
+
+Les fichiers mis à disposition par Raphaël Fournier-S'niehotta pour la rédaction
+
+* [Dossier administratif](https://github.com/raphaelfournier/HDR-cnam-template-admin)
+* [Manuscrit (mémoire inédit)](https://github.com/raphaelfournier/HDR-cnam-template-manuscrit)
+
 ## Toile de fond
 
 Le dossier HDR est composé d'un dossier administratif et d'un mémoire.  Le dépôt se fait en deux temps.
@@ -57,6 +67,8 @@ Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent 
 
 > En pratique, conformément au conseil que je donne plus haut, cela consiste à avoir trouvé 4 personnes ayant accepté de devoir lire un mémoire pendant l'été/début septembre pour rédiger un rapport d'une ou deux pages dans la deuxième moitié de septembre (tout en expliquant que l'une ou l'autre de ces personnes ne serait pas forcément sélectionnée par le comité HDR auquel cas, les vacances seraient meilleures et ladite personne serait examinatrice). Cette date est très approximative mais elle permet de fixer les idées.  Par ailleurs, la composition du jury peut influencer un peu la bibliographie et l'orientation générale du mémoire.
 
+* avril **Demander une attestation d'emploi** auprès des RH pour ne pas payer de frais d'inscription à l'ED (à inclure au dossier administratif)
+ 
 * 5 mai **Dépôt du dossier d'HDR** dossier administratif complet et mémoire en bonne voie (80% abouti)
 
 > Pour cette étape, le plus important est le dossier administratif qui doit être complet; si le mémoire est à moins de 80% fini, on peut négocier mais il faudra être en mesure de dégager du temps sur le mois qui reste avant le dépôt définitif.
@@ -66,8 +78,6 @@ Ce calendrier est pragmatique en ce qu'il ne donne que les dates qui concernent 
 * 25 juin **Proposer un sondage au jury** pour déterminer la date de soutenance (tous les jours ouvrés de novembre)
 
 * Début juillet **Choix des rapporteur-ses** et envoi des mémoires par l'ED
-
-* 22 août (à la ré-ouverture) **Demander une attestation d'emploi** auprès des RH pour ne pas payer de frais d'inscription à l'ED
 
 * 30 août **Proposer un jury** (oui avant même d'avoir l'autorisation de soutenir)
 
